@@ -32,8 +32,8 @@ model:
   path: ${model.dir}/${model.name}
 
 
-mlflow_tracking_ui: https://dagshub.com/kirilmn13/MLOps-Innotech.mlflow
-mlflow_user: kirilmn13
-mlflow_api: e90bb58aed2b444b24a588dc01e9240810700ac2
-experiment: "MLOps-e2e"
-repo_url: https://dagshub.com/kirilmn13/MLOps-Innotech
+mlflow_tracking_ui: https://dagshub.com/lpv23/Innotech.mlflow
+mlflow_user: lpv23
+mlflow_api: e324f4b726d6427c1f77806b80bb290526734aa0
+experiment: "MLOps-curso"
+repo_url: https://dagshub.com/lpv23/Innotech
